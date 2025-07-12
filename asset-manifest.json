@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TheWheelOfDiscs/static/css/main.e6c13ad2.css",
-    "main.js": "/TheWheelOfDiscs/static/js/main.6a8fa31d.js",
+    "main.js": "/TheWheelOfDiscs/static/js/main.5a20abe3.js",
     "static/js/453.bd1f2ab4.chunk.js": "/TheWheelOfDiscs/static/js/453.bd1f2ab4.chunk.js",
     "index.html": "/TheWheelOfDiscs/index.html",
     "main.e6c13ad2.css.map": "/TheWheelOfDiscs/static/css/main.e6c13ad2.css.map",
-    "main.6a8fa31d.js.map": "/TheWheelOfDiscs/static/js/main.6a8fa31d.js.map",
+    "main.5a20abe3.js.map": "/TheWheelOfDiscs/static/js/main.5a20abe3.js.map",
     "453.bd1f2ab4.chunk.js.map": "/TheWheelOfDiscs/static/js/453.bd1f2ab4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.6a8fa31d.js"
+    "static/js/main.5a20abe3.js"
   ]
 }
